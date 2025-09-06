@@ -9,20 +9,6 @@ let defaultProducts = [
     desc: "Used laptop in good condition.",
     image: "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=600&q=60"
   },
-    {
-    title: "Book Bundle",
-    category: "Books",
-    price: 500,
-    desc: "Set of 5 novels for book lovers.",
-    image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=600&q=60"
-  },
-  {
-    title: "Wooden Chair",
-    category: "Furniture",
-    price: 1200,
-    desc: "Strong and durable wooden chair.",
-    image: "https://images.unsplash.com/photo-1616627562245-749f49fba7fa?auto=format&fit=crop&w=600&q=60"
-  },
   {
     title: "Bicycle",
     category: "Sports",
